@@ -1,33 +1,47 @@
-Hi 👋, I'm Rajesh
+# Hi 👋, I'm Rajesh
 
-🎓 I'm currently pursuing my 2nd year in Computer Science and Data Science (CSDS).
+🎓 I'm currently pursuing my **2nd year of B.Tech in Data Science** at **QIS College of Engineering and Technology**.
 
-💻 I'm passionate about software development and building useful applications.
+💻 I'm passionate about software development, data analysis, and building useful applications.
 
-🚀 About Me
-🎓 Currently studying 2nd year in CSDS
-💡 Interested in Software Application Development
-🌱 Currently improving my programming skills
-🎯 Goal: To become a skilled software developer
-🛠️ Skills
-Programming Languages: C, Python
-Areas of Interest: Software Application Development
-💻 Technologies & Tools
+## 🚀 About Me
+
+- 🎓 Pursuing 2nd Year B.Tech in Data Science
+- 🏫 College: QIS College of Engineering and Technology
+- 💻 Skills: Python and Basic Java
+- 🌱 Currently improving my programming and technical skills
+- 🎯 Short-Term Goal: To secure an internship and gain practical experience
+- 📊 Long-Term Goal: To become a skilled Data Analyst
+- 💡 Area of Interest: Software Application Development
+
+## 🛠️ Skills & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Basics"/>
+  <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge" alt="Data Science"/>
 </p>
 
-🎯 Interests
-Software Application Development
-Problem Solving
-Learning New Technologies
-Building Projects
-📫 Connect With Me
-GitHub: Your GitHub Profile
-Email: your-email@example.com
+## 🎯 My Goals
 
-⭐ "Keep learning, keep building, and keep growing!"
+- 📚 Strengthen my programming and problem-solving skills.
+- 💼 Secure an internship to gain real-world industry experience.
+- 📊 Learn data analysis tools and techniques.
+- 🚀 Build projects that solve real-world problems.
+- 🌟 Grow into a successful Data Analyst.
+
+## 📈 Currently Learning
+
+- Python programming
+- Java fundamentals
+- Data analysis concepts
+- Software application development
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [Visit My GitHub Profile](https://github.com/)
+
+---
+
+⭐ *"Learning every day, building step by step, and growing towards my goals."*
+
