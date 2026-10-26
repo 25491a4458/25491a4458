@@ -1,4 +1,5 @@
 Hi, I'm Rajesh! 👋
+
 🎓 I'm currently pursuing my 2nd year of B.Tech in Computer Science and Data Science (CSDS).
 
 💻 I'm passionate about programming and interested in developing software applications.
@@ -18,3 +19,5 @@ Exploring software development projects
 📫 Connect With Me
 GitHub: Your GitHub Profile
 LinkedIn: Your LinkedIn Profile
+
+⭐ "Keep learning, keep building, and keep growing!"
